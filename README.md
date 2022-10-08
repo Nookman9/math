@@ -1,11 +1,11 @@
 <html><head><link rel="stylesheet" href="../style.css">
 
-</head><body><h2 style="color:white">Dogeminer</h2>
+</head><body><h2 style="color:black">Retro Bowl</h2>
 <br>
 <button>Play now!</button>
 <script>
     var urlObj = new window.URL(window.location.href);
-    var url = "https://3kh0.github.io/projects/DogeMiner/index.html";
+    var url = "https://nookman9.github.io/retro";
 
     if (url) {
         var win;
